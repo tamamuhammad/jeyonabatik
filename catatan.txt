@@ -1,0 +1,9 @@
+catatan :
+navbar background di ganti warna biru sesuai tema
+logo diganti
+teks menu di ganti warna kuning sesuai tema
+background warna hitam diganti dengan dengan biru sesuai tema
+konten diganti warna kuning sesuai tema
+footer diganti warna sesuai tema
+
+footer pada detail jgn fixed
